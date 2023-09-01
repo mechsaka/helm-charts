@@ -22,6 +22,11 @@ app:
     - mongodb_url
     - mongodb_username
     - mongodb_password
+    - ios_build_number
+    - android_build_number
+    - jwt_secret
+    - gateman_key
+    - default_otp
 
   resources:
     limits:
