@@ -26,6 +26,7 @@ app:
     - android_build_number
     - jwt_secret
     - default_otp
+    - otp_allow_list
 
   resources:
     limits:
