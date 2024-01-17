@@ -17,11 +17,12 @@ app:
     - redis_url
     - redis_password
     - gateman_key
+    - db_host
+    - db_username
+    - db_password
   # Environment variables specific to this service
   env:
-    - mongodb_url
-    - mongodb_username
-    - mongodb_password
+    - db_database
     - ios_build_number
     - android_build_number
     - jwt_secret
