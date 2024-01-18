@@ -3,11 +3,11 @@ entries:
   mechsaka-user:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-01-17T11:22:01.235078+01:00"
+    created: "2024-01-18T08:59:50.544536+01:00"
     description: A Helm chart for Mechsaka User Service
-    digest: 19f8c9388c36e680643864c1515b419c508f924f5d8363dda9b4ee31a037f036
+    digest: b717063f506c2a5088d10eee2c4e7578a1268fde610f11dc4ff58ab34b0a1d1d
     name: mechsaka-user
     urls:
     - https://mechsaka.github.io/helm-charts/mechsaka-user-0.1.0.tgz
     version: 0.1.0
-generated: "2024-01-17T11:22:01.233862+01:00"
+generated: "2024-01-18T08:59:50.543862+01:00"
