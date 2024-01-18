@@ -13,7 +13,6 @@ app:
   port: 80
   # Shared environment variables within Go Money
   commonEnv:
-    - node_env
     - amqp_url
     - redis_url
     - redis_password
