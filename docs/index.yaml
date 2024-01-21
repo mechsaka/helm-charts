@@ -3,9 +3,9 @@ entries:
   mechsaka-services:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-01-19T15:04:01.040689+01:00"
+    created: "2024-01-21T18:38:19.21034+01:00"
     description: A Helm chart for Mechsaka Service Handler Service
-    digest: 28f6f7f36cf1a7251ed12197c3f2bccbda89ffa42e498c572d62bab3aeaf30a1
+    digest: d992e84bee9cf7aee6fb4a7fa5a7460086edb8a279e011c930e1f1cb8d58ecd5
     name: mechsaka-services
     urls:
     - https://mechsaka.github.io/helm-charts/mechsaka-services-0.1.0.tgz
@@ -13,11 +13,11 @@ entries:
   mechsaka-user:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2024-01-19T15:04:01.042662+01:00"
+    created: "2024-01-21T18:38:19.210844+01:00"
     description: A Helm chart for Mechsaka User Service
-    digest: 558ca652e160317619e724adab4d9776562162fc6b2fa1187cc2450c5502e3c7
+    digest: e17872a181eeac62d9c82b04c30cd38f5b2f5b97fb86ebfb93a91c7acf31a7d5
     name: mechsaka-user
     urls:
     - https://mechsaka.github.io/helm-charts/mechsaka-user-0.1.0.tgz
     version: 0.1.0
-generated: "2024-01-19T15:04:01.039641+01:00"
+generated: "2024-01-21T18:38:19.20911+01:00"
