@@ -25,7 +25,7 @@ app:
     - db_database
     - jwt_secret
     - user_service_url
-    - user_service_api_key
+    - user_service_api_version
     - flutterwave_secret_key
 
   resources:
