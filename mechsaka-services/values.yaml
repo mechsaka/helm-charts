@@ -24,6 +24,9 @@ app:
   env:
     - db_database
     - jwt_secret
+    - user_service_url
+    - user_service_api_key
+    - flutterwave_secret_key
 
   resources:
     limits:
